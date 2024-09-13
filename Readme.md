@@ -27,7 +27,7 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/aishwaryaprabhat/Advanced-RAG.git
+   git clone https://github.com/Major-wagh/Advanced-RAG.git
    cd Advanced-RAG
 
 2. **Install the requirements:**
